@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-jorgejmarroquin-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/eslint-config-JorgeJMarroquin-1.git"
+  },
+  "keywords": [],
+  "author": "JorgeJMarroquin <jorgejosuemarroquin@hotmail.com> (https://github.com/JorgeJMarroquin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/eslint-config-JorgeJMarroquin-1/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/eslint-config-JorgeJMarroquin-1#readme"
+}
